@@ -1,0 +1,1 @@
+notes about gates on laravel sanctum
